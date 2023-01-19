@@ -5,6 +5,7 @@
   * ### **Phone:** *+375 29 1050959*
   * ### **E-mail:** *megacoolksuha@mail.ru*
   * ### **Discord:** *KseniyaSharshneva*
+  * [github][1] 
   *************
 ## About myself:
 I want to learn Frond-End Development in RSSchool!
@@ -38,3 +39,6 @@ alert(apples+oranges);
   * Russian - Native
   * English - A1
   
+
+  [1]:(https://KsushaSher.github.io/rsschool-cv/cv)
+
