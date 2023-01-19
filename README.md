@@ -37,6 +37,4 @@ alert(apples+oranges);
 ## Languages:
   * Russian - Native
   * English - A1
-
-************
   
