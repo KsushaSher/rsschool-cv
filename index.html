@@ -1,12 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./reset.css" />
+    <link rel="stylesheet" href="./vars.css" />
+    <link rel="stylesheet" href="./fonts.css" />
+    <title>cv</title>
+    <link rel="icon" href="assets/img/icon.ico" />
+  </head>
+  <body>
+    <header class="header">
+      <nav class="navigation-wrapper center">
+        <ul class="header-navigation-list">
+          <li class="header-navigation-item">
+            <a class="header-navigation-link" href="">Contact information</a>
+          </li>
+          <li class="header-navigation-item">
+            <a class="header-navigation-link" href="">About myself</a>
+          </li>
+          <li class="header-navigation-item">
+            <a class="header-navigation-link" href="">Skills and Proficiency</a>
+          </li>
+          <li class="header-navigation-item">
+            <a class="header-navigation-link" href="">Code example</a>
+          </li>
+          <li class="header-navigation-item">
+            <a class="header-navigation-link" href="">Courses</a>
+          </li>
+          <li class="header-navigation-item">
+            <a class="header-navigation-link" href="">Languages</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="main center">
+      <div class="title">
+        <div class="title-avatar-wrapper">
+          <img
+            class="title-avatar"
+            src="./assets/img/Atelit 009+.jpg"
+            alt="my photo"
+            width="300"
+          />
+        </div>
+        <div class="title-content">
+          <h1 class="title-name">KSENIYA SHARSHNEVA</h1>
+          <hr class="title-divider" />
+          <h2 class="title-duty">Junior frontend developer</h2>
+        </div>
+      </div>
+
+      <div class="content">
+        <article>
+          <h3>Contact information:</h3>
+          <ul>
+            <li>Phone: <a href="tel:+375 29 1050959">+375 29 1050959</a></li>
+            <li>E-mail: megacoolksuha@mail.ru</li>
+            <li>Discord: KseniyaSharshneva</li>
+            <li>github</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>About myself:</h3>
+          <p>I want to learn Frond-End Development in RSSchool!</p>
+        </article>
+
+        <article>
+          <h3>Skills and Proficiency:</h3>
+          <ul>
+            <li>Adobe Photoshop</li>
+            <li>AutoCAD</li>
+            <li>3ds Max</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Code example:</h3>
+          <pre>
+        &lt;!DOCTYPE html&gt;
+        &lt;script&gt;
+        "use strict";
+        
+        let apples = "2";
+        let oranges = "3";
+        
+        alert(apples+oranges);
+        
+        &lt;/script&gt;
+        </pre
+          >
+        </article>
+
+        <article>
+          <h3>Courses:</h3>
+          <ul>
+            <li>
+              RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
+            </li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Languages:</h3>
+          <ul>
+            <li>Russian - Native</li>
+            <li>English - A1</li>
+          </ul>
+        </article>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content center">
+        &copy; 2022 KseniyaSharshneva
+        <img src="./assets/img/logo.png" alt="" />
+      </div>
+    </footer>
+  </body>
 </html>
