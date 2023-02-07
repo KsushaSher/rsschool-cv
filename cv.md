@@ -15,7 +15,7 @@ I want to learn Frond-End Development in RSSchool!
 * AutoCAD
 * 3ds Max
 ************
-## Code exemple:
+## Code example:
 ```
 <!DOCTYPE html>
 <script>
