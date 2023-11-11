@@ -8,12 +8,12 @@
  *  Discord: KseniyaSharshneva
  *  [github](https://github.com/KsushaSher)
   
-**************************
+*******************
 ## About myself:
 I want to learn Frond-End Development in RSSchool!
 
 
-**************************
+*******************
 ## Skills and Proficiency:
 * Adobe Photoshop 
 * AutoCAD
@@ -22,7 +22,7 @@ I want to learn Frond-End Development in RSSchool!
 * Git, GitHub
 * VS Code
   
-*************************
+*******************
 ## Code example:
 ```
 function noSpace(x){
@@ -46,7 +46,7 @@ return result;
 * RS Schools Course "JS/Frontend Development Course. Stage#1" (in progress)
 
 
-***************
+******************
 ## Languages:
   * Russian - Native
   * English - A1
