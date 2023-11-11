@@ -23,3 +23,30 @@ I want to learn Frond-End Development in RSSchool!
 * VS Code
   
 *************************
+## Code example:
+```
+function noSpace(x){
+   result = "";
+
+   for (let char of x) {
+      if (char == ' ') {
+         result = `${result}${char.replace(' ', '')}`;
+      } else {
+         result = `${result}${char}`;
+      }
+   };
+return result;
+};
+
+```
+******************
+## Education:
+* Belarusian State University of Transport 
+   + Faculty of Industrial and Civil Engineering
+* RS Schools Course "JS/Frontend Development Course. Stage#1" (in progress)
+
+
+***************
+## Languages:
+  * Russian - Native
+  * English - A1
