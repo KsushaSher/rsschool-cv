@@ -3,20 +3,14 @@
 ## Contact information:
 
 - Phone:+375 29 1050959
-- E-mail:
-  - sharshnevakseniya@gmail.com
-  - megacoolksuha@mail.ru
+- E-mail: sharshnevakseniya@gmail.com
 - Telegram: @TKsen1ya
-- Discord: KseniyaSharshneva
+- Discord: Kseniya Sharshneva
 - GitHub: [KsushaSher](https://github.com/KsushaSher)
-
----
 
 ## About myself:
 
 I want to learn Frond-End Development in RSSchool!
-
----
 
 ## Skills and Proficiency:
 
@@ -28,8 +22,6 @@ I want to learn Frond-End Development in RSSchool!
 - Adobe Photoshop
 - AutoCAD
 - 3ds Max
-
----
 
 ## Code example:
 
@@ -43,15 +35,11 @@ const findSquares = num => {
 };
 ```
 
----
-
 ## Education:
 
 - Belarusian State University of Transport
   - Faculty of Industrial and Civil Engineering
 - RS Schools Course "JS/Frontend Development Course. Stage#1" (in progress)
-
----
 
 ## Languages:
 
